@@ -15,7 +15,7 @@
 </div>
 
 ```
-- ❓ This is the personal organization page of Rubber Roofing Direct
+- ❓ This is the GitHub organization page of Rubber Roofing Direct
 - 👈 Here you will find any public documentation, repositories, and packages released by Rubber Roofing Direct
 ```
 
